@@ -18,7 +18,7 @@ na wlasny serwer jezeli cokolwiek z tego bedzie.
 
 ## Trello
 
-No tutaj mozna dodawac taski i odchaczac taski
+No tutaj mozna dodawac taski i odhaczac taski
 
 [inwitacyjny link](https://trello.com/invite/nienazwanagradosciganiasiesamochodemATTI2053cacd385ae66e07ee8d24e878fb096EB0B85F)
 

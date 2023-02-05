@@ -14,13 +14,13 @@ na wlasny serwer jezeli cokolwiek z tego bedzie.
 
 ## Discord
 
-[inwitacyjny link](https://discord.gg/D68xJkkx)
+[inwitacyjny link](https://discord.gg/hy8VyU5wR9)
 
 ## Trello
 
 No tutaj mozna dodawac taski i odhaczac taski
 
-[inwitacyjny link](https://trello.com/invite/nienazwanagradosciganiasiesamochodemATTI2053cacd385ae66e07ee8d24e878fb096EB0B85F)
+[inwitacyjny link](https://trello.com/invite/nienazwanagradosciganiasiesamochodem/ATTI2053cacd385ae66e07ee8d24e878fb096EB0B85F)
 
 ## Unreal
 
